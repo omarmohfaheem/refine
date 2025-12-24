@@ -56,12 +56,4 @@ That's it! The app will start and you can use it immediately.
 
 If you don't have access to an OpenAI API key, you can try the live demo here:
 
-👉 **[Live Demo](https://refine-your-link.vercel.app)** _(replace with your Vercel URL)_
-
-## Tech Stack
-
-- **Framework**: Next.js 16 with App Router
-- **Styling**: Tailwind CSS 4
-- **UI Components**: Radix UI + shadcn/ui
-- **AI**: OpenAI GPT-4o-mini
-- **Language**: TypeScript
+👉 **[Live Demo](https://refine-prompt.vercel.app/)**
